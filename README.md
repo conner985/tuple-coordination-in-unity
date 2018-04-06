@@ -1,4 +1,6 @@
 # tuple-coordination-in-unity
-In this example I used a simplified version of a Linda tuple space to implement coordination among characters inside Unity
+Linda tuple space implemented in C# to be fully compatible with the Unity game engine. 
+
+This example is the classic "Dining Philosophers" problem solved through central coordination
 
 Video: https://www.youtube.com/watch?v=45RcKiTQ3pY
